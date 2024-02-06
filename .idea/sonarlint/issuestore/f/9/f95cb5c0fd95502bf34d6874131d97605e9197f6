@@ -1,0 +1,18 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÖÁÛ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ìœéŞüÿÿÿÿ
+`	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(‹¹ïªşÿÿÿÿ
+[	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(’‡âò
+[	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(èò¦´
+[	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(úîğÒ
+[	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(ÎÑš
+`	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(÷ßÙ©øÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+f
+java:S25832"DChange this condition so that it does not always evaluate to "false"(ØÇêæÿÿÿÿÿ8éÍÒÎÖ1
+E	java:S106"+Replace this use of System.out by a logger.(‡Ÿ´Àşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ûíšúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(“…­å
+8
+java:S1659""Declare "num2" on a separate line.(à÷Áµ
